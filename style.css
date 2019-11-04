@@ -1,8 +1,27 @@
 body {
-    background: url(email-pattern\ 2.png) no-repeat center center fixed;
+    background: url(./assets/email-pattern\ 2.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
   }
 
+#portRow2 {
+  margin-top: 25px;
+}
+
+.crystalTitle{
+  margin-left: 80px;
+}
+
+.gifTitle {
+  margin-left: 110px;
+}
+
+.triviaTitle{
+  margin-left: 90px;
+}
+
+h4 {
+  margin-left: 40px;
+}
